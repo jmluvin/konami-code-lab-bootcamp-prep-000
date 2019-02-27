@@ -12,7 +12,6 @@ const codes = [
 ];
 let index = 0;
 function init() {
- const key = .key;
  if (key === codes[index]) {
     index++;
  
